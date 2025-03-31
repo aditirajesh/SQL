@@ -19,6 +19,12 @@ select OrderId, CustomerId, DATE(Date, '+1 year') as ModifiedDate,
 Product, Amount from Orders;
 ```
 
+#### Previous table:
+
+![](task6_orders.png)
+
+#### Dateadd:
+
 ![](task6_DATEADD.png)
 
 ### Updating orders + adding extra data
@@ -38,10 +44,6 @@ INSERT INTO Orders VALUES
 ```
 
 ![](task6_INSERT.png)
-
-### Final table:
-
-![](task6_orders.png)
 
 ## b) Write a query to filter records based on date ranges (e.g., orders placed within the last 30 days).
 
