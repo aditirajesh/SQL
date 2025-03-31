@@ -47,7 +47,7 @@ INSERT INTO Orders VALUES
 ```
 
 Schema:
-![](Orders_schema.png)
+![](Orders_Schema.png)
 
 Values:
 ![](Orders_data.png)
