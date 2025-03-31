@@ -28,4 +28,4 @@ INSERT INTO Employees VALUES
 
 ## c) Execute a basic SELECT \* FROM TableName; query to verify the data insertion.
 
-![](task1_ex1.png)
+![](task1_ex2.png)
