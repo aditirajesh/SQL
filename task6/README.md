@@ -51,7 +51,7 @@ INSERT INTO Orders VALUES
 select * from Orders where julianday('now') - julianday(Date) < 30;
 ```
 
-![](task6_interval)
+![](task6_interval.png)
 
 ## c) Format date outputs if necessary using functions like CONVERT or TO_CHAR.
 
