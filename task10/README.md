@@ -206,7 +206,7 @@ EXPLAIN QUERY PLAN
 
 #### Query w/ index vs w/o index:
 
-![](query_w:_index.png) ![](query_w:o_index.png)
+![](query_w_index.png) ![](query_wo_index.png)
 
 ## c) Implement triggers to enforce business rules automatically (e.g., update inventory levels upon order insertion, log changes to critical tables).
 
